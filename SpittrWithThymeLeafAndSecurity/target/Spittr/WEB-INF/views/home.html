@@ -1,0 +1,27 @@
+<!--
+  Created by IntelliJ IDEA.
+  User: workstation
+  Date: 23.09.2019
+  Time: 17:21
+  To change this template use File | Settings | File Templates.
+-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Spittr</title>
+</head>
+<body>
+<div id="header" th:include="page :: header"></div>
+<h1>Welcome to spitter </h1>
+<!--Attributes in Thymeleaf mirror the standard-->
+<!--HTML attribute that they share a name with, to render some computed value. In this-->
+<!--case, all three uses of the th:href attribute use the @{} expressions to calculate-->
+<!--context-sensitive URL paths (much as you might use JSTL’s <c:url> tag or Spring’s-->
+<!--    <s:url> tag in a JSP page). Thymeleaf pages can be opened in any browser
+without processing-->
+<a th:href="@{/spittles}">Spittles</a> |
+<a th:href="@{/spitter/register}">Register</a>
+<div id="footer" th:include="page :: copy"></div>
+</body>
+</html>

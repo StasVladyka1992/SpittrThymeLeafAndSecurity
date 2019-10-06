@@ -1,0 +1,76 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Spittr</title>
+    <link rel="stylesheet" type="text/css" href="/resources/style.css"/>
+</head>
+<body>
+<div id="header" th:include="page :: header"></div>
+<h1 class="error">Register</h1>
+<form method="POST" th:object="${spitter}" enctype="multipart/form-data">
+    <div class="error" th:if="${#fields.hasErrors('*')}">
+        <ul>
+            <li th:each="err : ${#fields.errors('*')}" th:text="${err}">Input is incorrect
+<!--                th:text attribute. This attribute instructs Thymeleaf to-->
+<!--                evaluate an expression (in this case, the value of the err variable) and render its value-->
+<!--                as the body of the <li> tag. In effect, there will be one <li> for each error, displaying-->
+<!--                the text of that error.-->
+            </li>
+        </ul>
+    </div>
+
+    <label>Profile Picture</label>:
+    <input type="file" name="profilePicture" accept="image/jpeg,image/png,image/gif" /><br/>
+
+    <label th:class ="${#fields.hasErrors('firstName')}? 'error' ">
+        First Name</label>:
+    <!--
+            You may be wondering about the difference between the expressions wrapped with
+            ${} and those wrapped with *{}. The ${} expressions (such as ${spitter}) are variable
+            expressions. Normally, these are Object-Graph Navigation Language (OGNL)
+            expressions (http://commons.apache.org/proper/commons-ognl/). But when used
+            with Spring, they’re SpEL expressions. In the case of ${spitter}, it resolves to the
+            model property whose key is spitter.
+            As for *{} expressions, they’re selection expressions. Whereas variable expressions
+            are evaluated against the entire SpEL context, selection expressions are evaluated on
+            a selected object. In the case of the form, the selected object is the one given in the
+            <form> tag’s th:object attribute: a Spitter object from the model. Therefore the
+            *{firstName} expression evaluates to the firstName property on the Spitter object.
+            ${#fields.hasErrors('firstName')}  - # - it's common symbol to start SpEl expression
+    -->
+    <!--    th:field the same as input value
+            By using th:field, you get both a value
+            attribute set to the value of firstName and also a name attribute set to firstName.
+            It is also important to notice that *{} used to bind to the model attribute property -->
+    <input type="text" th:field="*{firstName}"
+           th:class="${#fields.hasErrors('firstName')}? 'error'"/><br/>
+
+    <label th:class="${#fields.hasErrors('lastName')}? 'error'">
+        Last Name</label>:
+    <input type="text" th:field="*{lastName}"
+           th:class="${#fields.hasErrors('lastName')}? 'error'"/></br>
+
+    <label th:class="${#fields.hasErrors('email')}? 'error'">
+        Email</label>:
+    <input type="text" th:field="*{email}"
+           th:class="${#fields.hasErrors('email')}? 'error'"/></br>
+
+    <label th:class="${#fields.hasErrors('username')}? 'error'">
+        Username</label>:
+    <input type="text" th:field="*{username}"
+           th:class="${#fields.hasErrors('username')}? 'error'"/><br/>
+
+    <label th:class="${#fields.hasErrors('password')}? 'error'">
+        Password</label>:
+    <!--password isn't shown even if it's populated in object, that send as an entity-->
+    <input type="password" th:field="*{password}"
+           th:class="${#fields.hasErrors('password')}? 'error'"/><br/>
+    <input type="submit" value="Register"/>
+</form>
+<div id="copy" th:include="page :: copy"></div>
+
+</body>
+</html>
+
+
+
