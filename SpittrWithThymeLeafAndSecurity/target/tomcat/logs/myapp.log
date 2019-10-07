@@ -1,0 +1,105 @@
+2019-10-07 09:06:22 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:06:22 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:06:22 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:07:17 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:07:17 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:07:17 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:12:01 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:12:01 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:12:01 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:17:33 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:17:33 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:17:33 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:18:46 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:18:46 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:18:46 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:24:18 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:24:18 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:24:18 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:26:47 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:26:47 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:26:47 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:29:55 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:29:55 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:29:55 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:31:02 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:31:02 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:31:02 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 09:45:37 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 09:45:37 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 09:45:37 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 10:02:38 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 10:02:38 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 10:02:38 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 10:04:03 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 10:04:03 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 10:04:03 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 10:12:39 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 10:12:39 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 10:12:39 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 10:20:59 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 10:20:59 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 10:20:59 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 10:32:13 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 10:32:13 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 10:32:13 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 10:34:39 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 10:34:39 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 10:34:39 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 10:39:57 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 10:39:57 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 10:39:57 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 11:00:56 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 11:00:56 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 11:00:56 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 11:05:39 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 11:05:39 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 11:05:39 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 11:09:39 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 11:09:39 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 11:09:39 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 11:12:36 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 11:12:36 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 11:12:36 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 11:34:19 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 11:34:19 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 11:34:19 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 11:40:50 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 11:40:50 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 11:40:50 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 11:44:52 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 11:44:52 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 11:44:52 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 12:06:09 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 12:06:09 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 12:06:09 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 12:07:12 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 12:07:12 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 12:07:12 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 12:08:10 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 12:08:10 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 12:08:10 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 12:11:33 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 12:11:33 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 12:11:33 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 12:13:25 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 12:13:25 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 12:13:25 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 12:17:11 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 12:17:11 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 12:17:11 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 12:19:30 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 12:19:30 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 12:19:30 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 13:36:15 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 13:36:15 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 13:36:15 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 14:03:47 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 14:03:47 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 14:03:47 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 14:04:26 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 14:04:26 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 14:04:26 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.
+2019-10-07 14:06:25 DEBUG logging:22 - Logging Provider: org.jboss.logging.Log4jLoggerProvider
+2019-10-07 14:06:25 INFO  Version:21 - HV000001: Hibernate Validator 6.0.17.Final
+2019-10-07 14:06:25 DEBUG TraversableResolvers:60 - Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable.

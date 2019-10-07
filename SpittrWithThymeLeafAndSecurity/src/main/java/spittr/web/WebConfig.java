@@ -87,10 +87,10 @@ public class WebConfig implements WebMvcConfigurer, ApplicationContextAware {
 
     //This bean is used to work with uploaded files if i used
     //If i'm using a Part.class with file uploading, i don't need to specify this bean
-//    @Bean
-//    public MultipartResolver multipartResolver() throws IOException {
-//        return new StandardServletMultipartResolver();
-//    }
+    @Bean
+    public MultipartResolver multipartResolver() throws IOException {
+        return new StandardServletMultipartResolver();
+    }
 
     //It's needed for proper static resoursec handling
     //without it Thymeleaf didn't see css files, images and so on

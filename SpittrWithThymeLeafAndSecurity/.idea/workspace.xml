@@ -1,35 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="SpittrWithThymeLeaf:war" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2012c8a-fbfa-4e1f-aec5-3659fdcdcf92" name="Default Changelist" comment="" />
+    <list default="true" id="9a266c79-c029-4036-b369-c151dca132fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spittr/config/DataConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spittr/config/DataConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spittr/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spittr/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spittr/config/SpittrWebAppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spittr/config/SpittrWebAppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spittr/web/SpitterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spittr/web/SpitterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/spittr/web/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spittr/web/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spittr.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spittr.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spittr/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spittr/WEB-INF/classes/META-INF/SpittrWithThymeLeaf.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spittr/WEB-INF/classes/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spittr/WEB-INF/classes/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spittr/WEB-INF/classes/spittr/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/Spittr/WEB-INF/classes/spittr/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spittr/WEB-INF/lib/spring-core-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spittr/WEB-INF/lib/spring-jcl-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Spittr/WEB-INF/lib/spring-webmvc-5.1.9.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spittr/config/DataConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spittr/config/DataConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spittr/config/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spittr/config/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spittr/config/SpittrWebAppInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spittr/config/SpittrWebAppInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spittr/web/SpitterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spittr/web/SpitterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spittr/web/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spittr/web/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/spittr/web/HomeControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/spittr/web/SpitterControllerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/spittr/web/SpittleControllerTest.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="131" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -38,27 +54,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1RMtNfOfBbQGuWWiZBd17hBoUkv" />
+  <component name="ProjectId" id="1Rrd1YGUxsGddYfA2jG8f1z0LV2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="spittr.web" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java_projects\SpittrWithThymeLeafAndSecurity\src\main\resources" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java_projects\SpittrWithThymeLeaf\src\main\webapp\WEB-INF\views" />
-      <recent name="D:\java_projects\SpittrWithThymeLeaf\src" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../andadmin" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,147 +71,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.45">
-    <configuration name="spittr.web in SpittrWithThymeLeaf (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpittrWithThymeLeaf" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spittr.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="spittr.web" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="spittr.web in SpittrWithThymeLeaf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpittrWithThymeLeafAndSecurity" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spittr.web.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="spittr.web" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tomcat 8.5.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
-      <deployment>
-        <artifact name="SpittrWithThymeLeaf:war">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SpittrWithThymeLeaf" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="52247" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <method v="2">
-        <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="SpittrWithThymeLeaf:war" />
+  <component name="RunManager">
+    <configuration name="SpittrWithThymeLeaf [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
         </option>
-      </method>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="JUnit.spittr.web in SpittrWithThymeLeaf" />
-      <item itemvalue="Tomcat Server.Tomcat 8.5.45" />
-      <item itemvalue="JUnit.spittr.web in SpittrWithThymeLeaf (1)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.spittr.web in SpittrWithThymeLeaf (1)" />
-        <item itemvalue="JUnit.spittr.web in SpittrWithThymeLeaf" />
-      </list>
-    </recent_temporary>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e2012c8a-fbfa-4e1f-aec5-3659fdcdcf92" name="Default Changelist" comment="" />
-      <created>1569488753891</created>
+      <changelist id="9a266c79-c029-4036-b369-c151dca132fb" name="Default Changelist" comment="" />
+      <created>1570428933651</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569488753891</updated>
-      <workItem from="1569488755393" duration="20312000" />
-      <workItem from="1569516316266" duration="574000" />
-      <workItem from="1569573160370" duration="11795000" />
-      <workItem from="1569613034275" duration="757000" />
-      <workItem from="1569668729458" duration="1438000" />
-      <workItem from="1569681988168" duration="1472000" />
-      <workItem from="1569742293417" duration="1993000" />
-      <workItem from="1569773391560" duration="745000" />
-      <workItem from="1569774183531" duration="8900000" />
+      <updated>1570428933651</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SpittrWithThymeLeafAndSecurity$spittr_web_in_SpittrWithThymeLeaf__1_.ic" NAME="spittr.web in SpittrWithThymeLeaf (1) Coverage Results" MODIFIED="1569775490203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>spittr.web.*</FILTER>
-    </SUITE>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

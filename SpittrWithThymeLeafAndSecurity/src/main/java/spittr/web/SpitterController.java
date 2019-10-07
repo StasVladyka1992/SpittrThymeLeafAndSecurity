@@ -7,13 +7,16 @@ import org.springframework.validation.Errors;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+
 import org.springframework.web.bind.annotation.RequestPart;
+import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import spittr.Spitter;
 import spittr.data.SpitterRepository;
 
 import javax.servlet.http.Part;
 import javax.validation.Valid;
+import java.io.File;
 import java.io.IOException;
 
 @Controller
@@ -44,12 +47,12 @@ public class SpitterController {
     //This method can also process requests with pictures because of @RequestPart.
     //If for @Request part Part class is using, i don't need to config StandardServletMultipartResolver
     public String processRegistration(@Valid Spitter spitter,
-                                      @RequestPart("profilePicture") Part profilePicture,
+                                      @RequestPart("profilePicture") MultipartFile profilePicture,
                                       Errors errors, RedirectAttributes model) throws IOException {
         if (errors.hasErrors()) {
             return "registerForm";
         }
-        profilePicture.write(profilePicture.getSubmittedFileName());
+        profilePicture.transferTo(new File(profilePicture.getOriginalFilename()));
         spitterRepository.save(spitter);
         // When InternalResourceViewResolver sees the redirect: prefix on the view specification,
         // it knows to interpret it as a redirect specification instead of as a view name.
